@@ -62,6 +62,9 @@ Para auditar la conectividad desde el modo privilegiado (`#`) de los routers:
 
 ---
 
+<img width="1401" height="724" alt="redes" src="https://github.com/user-attachments/assets/f20e806b-e71e-4801-9d1d-f577f1576613" />
+
+
 ## 📝 Conclusión
 
 El proyecto permitió consolidar la teoría de redes en un escenario corporativo/deportivo de gran escala. La implementación de **VLANs** y la optimización con **VLSM** demostraron la importancia de una distribución eficiente del direccionamiento IPv4, mientras que el despliegue de **DHCP** evidenció cómo la automatización de infraestructura mitiga errores humanos y agiliza el aprovisionamiento de miles de hosts distribuidos geográficamente.
